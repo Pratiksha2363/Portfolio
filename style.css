@@ -1,0 +1,78 @@
+*{
+    background-color: rgb(160, 189, 243);
+}
+
+.main{
+    display: flex;
+    flex: 1;
+    opacity: 1;
+    flex-wrap: wrap;
+}
+.profile{
+    height: 260px;
+    width: 210px;
+    margin-left: 200px;
+    background-color: cadetblue;
+    border-radius: 25px;
+}
+.profile img{
+    height: 250px;
+    width: 200px; 
+    border-radius: 25px;
+    border: 1px solid black;
+    margin-top: 4px;
+    margin-left: 4px;
+}
+.about{
+    margin-left: 55px;
+}
+.about h1, h2, p {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    word-spacing: 5px;
+}
+.Myprofile{
+    display: inline-flex;
+    flex: 1;
+}
+ h1{
+    text-align: center;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 3rem;
+}
+.education {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+.skills, .tools{
+    margin-left: 10rem;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+.second{
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}
+.projects{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+.certificate{
+    margin-left: 10rem;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
