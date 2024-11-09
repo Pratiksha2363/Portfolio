@@ -1,5 +1,5 @@
 *{
-    background-color: rgb(160, 189, 243);
+    background-color: rgb(204, 153, 129);
 }
 
 .main{
@@ -12,7 +12,7 @@
     height: 260px;
     width: 210px;
     margin-left: 200px;
-    background-color: cadetblue;
+    background-color: rgb(204, 153, 129);
     border-radius: 25px;
 }
 .profile img{
